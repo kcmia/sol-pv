@@ -1,0 +1,5 @@
+.vscode/
+correccion.txt
+stats.txt
+calculator/__pycache__/
+wordanalyzer/__pycache__/
